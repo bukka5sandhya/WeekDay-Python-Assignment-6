@@ -48,3 +48,14 @@ For day number 1 the day's name is Monday. Monday is the Week
 Start.
 The output should be Week Start.
 
+Sample Input 1
+6
+Sample Output 1
+Weekend
+
+Sample Input 2
+1
+Sample Output 2
+Week Start
+
+
